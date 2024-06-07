@@ -35,9 +35,9 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔸 **Developer:** [Predator HackerzZ](https://t.me/OwnYourBotz) 
 │
-├🔹 **Bot Support:** [Support Group](https://t.me/TeleRoid14)
+├🔹 **Bot Support:** [Support Group](https://t.me/+hqgL_Dok0Us3ODM1)
 │
-├🔸 **Bot Updates:** [Bots Channel](https://t.me/TeleRoidGroup)
+├🔸 **Bot Updates:** [Bots Channel](https://t.me/+OV1c9JfMDn80NjQ1)
 │
 ╰──────[ 😎 ]───────────⍟
 """
