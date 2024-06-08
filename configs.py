@@ -33,7 +33,7 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔹 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔸 **Developer:** [KALI BOTZ](https://t.me/user?id={BOT_OWNER}) 
+├🔸 **Developer:** [KALI BOTZ](tg://user?id=6941610925) 
 │
 ├🔹 **Bot Support:** [Support Group](https://t.me/+hqgL_Dok0Us3ODM1)
 │
